@@ -25,7 +25,7 @@ const perks = [
     },
     {
         title: "Learning & Growth",
-        desc: "Mentorship and learning resources to help you level up faster.",
+        desc: "Mentorship & learning resources to help you level up faster.",
         icon: GraduationCap,
     },
     {
